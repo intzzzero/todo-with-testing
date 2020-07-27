@@ -36,7 +36,7 @@ const TodoItemContainer = styled.li`
 	button {
 		width: 60px;
 		height: 30px;
-		margin-left: 15px;
+		margin-left: 10px;
 		border: none;
 		color: rgba(0, 0, 0, 0.8);
 		background-color: #fff;
